@@ -52,7 +52,7 @@ This project focuses on identifying data quality issues and classifying clients 
 ## 📸 Screenshots
 
 ### Risk Assessment Output
-![Risk Assessment Output](insights-output.png)
+![Risk Assessment Output](output.png)
 
 ---
 
